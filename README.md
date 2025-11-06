@@ -1,27 +1,12 @@
-# PiProject
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Home Page :
+<img width="1320" height="738" alt="home" src="https://github.com/user-attachments/assets/0b8e84fd-95cd-4bce-a314-088d0150c18e" />
+OverView Page :
+<img width="1313" height="730" alt="overview" src="https://github.com/user-attachments/assets/2213aaae-9d7b-4f47-91fc-30f76a3c54bf" />
+Vehicule Tracking Page :
+<img width="1378" height="728" alt="vehicule tracking" src="https://github.com/user-attachments/assets/ee7aa564-95a7-48d8-803b-9c0cccaddafe" />
+Partner Analysis Page :
+<img width="1388" height="738" alt="partner analysis" src="https://github.com/user-attachments/assets/308ed180-77c6-4d71-87c9-d80ef82eb3a1" />
+Financial Perfermonce Page :
+<img width="1365" height="730" alt="financial perfermonce" src="https://github.com/user-attachments/assets/7238556e-09f2-4546-9585-c32f7fe81d7b" />
+Driver Analysis Page :
+<img width="1405" height="742" alt="driver analysis" src="https://github.com/user-attachments/assets/2bee8f3a-6ca6-4f31-9b7f-4ac6abfc3669" />
